@@ -65,7 +65,7 @@ a {
     .header__logo-img {
       width: 43px;
       height: 41px;
-      background-image: url("../../img/header/forkio-logo-purple.png");
+      background-image: url("./../img/header/forkio-logo-purple.png");
       background-repeat: no-repeat;
       background-size: contain; }
     .header__logo-text {
@@ -112,7 +112,7 @@ a {
     padding: 10px 0; }
 
 .intro {
-  background-image: url("../img/header/header-bcg.png");
+  background-image: url("./img/header/header-bcg.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -301,7 +301,7 @@ a {
       margin: 0 auto;
       padding: 35px 30px; }
     .header__logo:hover > .header__logo-img {
-      background-image: url("../../img/header/forkio-logo-white.png"); }
+      background-image: url("./../img/header/forkio-logo-white.png"); }
     .header__logo:hover > .header__logo-text {
       color: #FFFFFF; }
     .header__menu {
@@ -337,7 +337,7 @@ a {
 
 .talking {
   background-color: #4a3b4e;
-  background-image: url("../../img/section_about/about-bcg.png");
+  background-image: url("./../img/section_about/about-bcg.png");
   background-repeat: no-repeat;
   background-position: top;
   background-size: auto 50%;
@@ -695,7 +695,7 @@ a {
 @media screen and (min-width: 481px) {
   .pricing {
     padding: 4px 0 65px;
-    background-image: url(../../img/section_pricing/pricing_background.png);
+    background-image: url(./../img/section_pricing/pricing_background.png);
     background-repeat: no-repeat;
     background-size: cover; }
     .pricing__title {
@@ -720,7 +720,7 @@ a {
 
 @media screen and (min-width: 993px) {
   .pricing {
-    background-image: url(../../img/section_pricing/pricing_background.png);
+    background-image: url(./../img/section_pricing/pricing_background.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 8px 0 80px; }
