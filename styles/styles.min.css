@@ -65,7 +65,7 @@ a {
     .header__logo-img {
       width: 43px;
       height: 41px;
-      background-image: url("../img/header/forkio-logo-purple.png");
+      background-image: url("../../img/header/forkio-logo-purple.png");
       background-repeat: no-repeat;
       background-size: contain; }
     .header__logo-text {
@@ -112,7 +112,7 @@ a {
     padding: 10px 0; }
 
 .intro {
-  background-image: url("../../img/header/header-bcg.png");
+  background-image: url("../img/header/header-bcg.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
